@@ -1,18 +1,37 @@
-# VELTRIX Website V2
+# VELTRIX Linux
 
-A responsive, dark navy and electric-blue landing page for the VELTRIX Linux From Scratch project.
+**A Linux distribution built from the ground up.**
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — responsive visual design
-- `script.js` — mobile navigation behavior
+VELTRIX is an independent Linux distribution project built using the principles of [Linux From Scratch](https://www.linuxfromscratch.org/). Its goal is to create a lightweight, efficient, and distinctive Linux experience with its own identity.
 
-## Deploy on Netlify
-1. Extract `veltrix-website-v2.zip`.
-2. Open https://app.netlify.com/drop
-3. Drag the extracted folder (the folder containing `index.html`) onto the page.
+## 🌌 Project Vision
 
-No build command or framework is required.
+VELTRIX aims to combine:
+- **Lightweight Performance** — Designed with efficiency in mind.
+- **Custom Identity** — A unique boot experience and visual design.
+- **Built from Scratch** — Developed using Linux From Scratch.
+- **Simplicity** — A clean and approachable Linux experience.
+- **Independence** — An evolving operating system project.
 
-## Important
-The desktop, boot, and installer sections are visual concepts, not claims that those features are implemented. The four named boot identities are intentionally classified placeholders. No ISO download is available yet.
+## 🚀 Development Status
+
+VELTRIX is currently under active development. Core system components are being built and configured.
+
+Some features shown on the project website are design concepts and are not yet implemented.
+
+## 🌐 Official Website
+
+[Visit the VELTRIX Website](https://notyouraaronn.github.io/veltrix-website/)
+
+## 🛠️ Technology
+
+- Linux From Scratch
+- GNU toolchain
+- Linux kernel
+- Custom system configuration
+
+## 📌 Important Notice
+
+VELTRIX is an independent development project. It is not affiliated with or endorsed by the Linux From Scratch project.
+
+**VELTRIX — Built from the ground up.**
